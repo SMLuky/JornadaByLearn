@@ -1,2 +1,0 @@
-# JornadaByLearn
-Calculadora básica
